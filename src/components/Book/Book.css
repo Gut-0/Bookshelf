@@ -1,0 +1,38 @@
+.book {
+    width: 280px;
+}
+
+.book .header {
+    background-color: whitesmoke;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.book .header img {
+    width: 50%;
+    border-radius: 10%;
+    position: relative;
+    bottom: -50px;
+}
+
+.book .footer {
+    background-color: white;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 90px;
+    padding-bottom: 40px;
+}
+
+.book .footer h4 {
+    color: dodgerblue;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.book .footer h5 {
+    font-size: 18px;
+    line-height: 22px;
+    color: #212121;
+    padding: 0px 16px;
+}
