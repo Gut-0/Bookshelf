@@ -43,8 +43,8 @@
 ## Pré requisitos
 
 <p style="text-align: justify">
-    Para conseguir acompanhar a aplicação em React, é necessário que você tenha o Node instalado. Você pode baixá-lo <a 
-target="_blank" href="https://nodejs.org/en/download/">aqui</a>
+    Para conseguir acompanhar a aplicação em React, é necessário que você tenha o Node instalado. Você pode baixá-lo 
+<a href="https://nodejs.org/en/download/" target="_blank" >aqui</a>
 </p>
 
 ## Como rodar a aplicação
