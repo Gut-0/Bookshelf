@@ -48,6 +48,9 @@ const CustomForm = (props) => {
                     value={image}
                     onAlterned={ value => setImage(value) }
                 />
+                <p>*Ou use esse exemplo:
+                    https://images-na.ssl-images-amazon.com/images/I/51OYPRKXWAL._SX355_BO1,204,203,200_.jpg
+                </p>
                 <CustomDropdown
                     label='Tipo'
                     itens={ props.types }
