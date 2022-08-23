@@ -13,7 +13,7 @@
 * [Funcionalidade](#funcionalidade)
 * [Demonstração da Aplicação](#layout-web)
 * [Pré-requisitos](#pré-requisitos)
-* [Como rodar a aplicação](#como-rodar-a-apliçao)
+* [Como rodar a aplicação](#como-rodar-a-aplição)
 
 ## Descrição do projeto
 
