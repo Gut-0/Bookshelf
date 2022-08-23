@@ -2,6 +2,7 @@
 <p>
     <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
     <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+    <img src="http://img.shields.io/static/v1?label=IDEA&message=INTELLIJ&color=GREEN&style=for-the-badge" />
 </p>
 
 ## Índice
@@ -10,16 +11,13 @@
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidade](#funcionalidade)
-* [Demonstração da Aplicação](#layout)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Demonstração da Aplicação](#layout-web)
+* [Pré-requisitos](#pré-requisitos)
+* [Como rodar a aplicação](#como-rodar-a-aplicao)
 
 ## Descrição do projeto
 
-<p align="justify">
+<p style="text-align: justify">
     O projeto tem como finalidade o aprendizado, no qual é possível salvar temporariamente cards com informações de livros, simulando uma "Estante de Livros". 
 </p>
 
@@ -27,9 +25,43 @@
 
 * Salvar e imprimir dados
 
-## Deploy da Aplicação
-
+## Deploy
 <a target="_blank"> link: https://bookshelf-vert.vercel.app/ </a>
 
-## Layout
+![Video demonstrativo](public/images/demonstrativo.gif)
 
+## Layout Web
+
+![Layout Formulário Web](public/images/REACT1.png)
+![Estrutura de livros salvos para web](public/images/REACT3.png)
+
+## Layout Mobile
+
+<img src="public/images/mobile1.png" alt="Representação do formulário na web" style="width: 40%"/>
+<img src="public/images/mobile2.png" style="width: 45%"/>
+
+## Pré requisitos
+
+<p style="text-align: justify">
+    Para conseguir acompanhar a aplicação em React, é necessário que você tenha o Node instalado. Você pode baixá-lo <a 
+target="_blank" href="https://nodejs.org/en/download/">aqui</a>
+</p>
+
+## Como rodar a aplicação
+Para rodar o projeto, você deve fazer o seguinte:
+
+Clonar e abrir o projeto 
+````
+git clone git@github.com:Gut-0/Bookshelf.git
+cd Bookshelf
+code .
+````
+Instale as dependências
+````
+npm i
+````
+Execute o projeto
+````
+npm run start
+````
+O projeto irá rodar em [http://localhost:3000](http://localhost:3000)
