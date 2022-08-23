@@ -37,8 +37,10 @@
 
 ## Layout Mobile
 
-<img src="public/images/mobile1.png" alt="Representação do formulário na web" style="width: 40%"/>
-<img src="public/images/mobile2.png" style="width: 45%"/>
+<div>
+    <img src="public/images/mobile1.png" alt="Representação do formulário na web" style="width: 40%"/>
+    <img src="public/images/mobile2.png" style="width: 45%"/>
+</div>
 
 ## Pré requisitos
 
