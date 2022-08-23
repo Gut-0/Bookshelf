@@ -9,10 +9,10 @@
 * [Título](#Bookshelf)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidade e Demonstração da Aplicação](#funcionalidade-e-demonstração-da-aplicação)
+* [Funcionalidade](#funcionalidade)
+* [Demonstração da Aplicação](#layout)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
@@ -29,6 +29,7 @@
 
 ## Deploy da Aplicação
 
-link: https://bookshelf-vert.vercel.app/
+<a target="_blank"> link: https://bookshelf-vert.vercel.app/ </a>
 
 ## Layout
+
