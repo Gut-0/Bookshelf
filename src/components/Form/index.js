@@ -52,7 +52,7 @@ const CustomForm = (props) => {
                     *Ou use esse exemplo:
                 </p>
                 <p>
-                    https://images-na.ssl-images-amazon.com/images/I/61vW+5HaR0L._SY344_BO1,204,203,200_.jpg
+                    https://s3.novatec.com.br/capas-ampliadas/capa-ampliada-9788575226568.jpg
                 </p>
                 <CustomDropdown
                     label='Tipo'

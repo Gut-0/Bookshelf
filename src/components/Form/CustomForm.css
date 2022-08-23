@@ -11,3 +11,8 @@
     padding: 36px 64px;
     box-shadow: 8px 8px 16px rgba(0,0,0, 0.08);
 }
+
+.custom-form p {
+    display: flex;
+    flex-wrap: wrap;
+}
